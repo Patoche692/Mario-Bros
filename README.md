@@ -1,3 +1,2 @@
 # Mario-Bros
-Super Mario Bros : C++, SDL 1.2 game
-https://www.youtube.com/watch?v=tkR9oSUGQ7c&ab_channel=PatrickAttimont
+Super Mario Bros like game written in C++ using SDL 1.2. Customizable levels loaded from .txt files.
